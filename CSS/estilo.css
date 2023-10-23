@@ -1,0 +1,9 @@
+.menu {
+    /*border: 1px solid black;*/
+    text-decoration: none;
+    padding: 2px;
+    color: black;
+}
+.menu:hover {
+    color: cadetblue;
+}
